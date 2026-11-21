@@ -1,0 +1,13 @@
+streamlit>=1.45
+pandas>=2.1
+numpy>=1.26
+plotly>=5.22
+scikit-learn>=1.4
+statsmodels>=0.14
+scipy>=1.11
+anthropic>=0.40
+yfinance>=0.2.50
+openpyxl>=3.1
+xlrd>=2.0
+xlsxwriter>=3.1
+python-dotenv>=1.0
